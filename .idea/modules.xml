@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ShoppingMall.iml" filepath="$PROJECT_DIR$/.idea/ShoppingMall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-rocketmq-starter/framework-rocket-mq-starter.iml" filepath="$PROJECT_DIR$/framework-rocketmq-starter/framework-rocket-mq-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework-sdk/framework-sdk.iml" filepath="$PROJECT_DIR$/framework-sdk/framework-sdk.iml" />
+    </modules>
+  </component>
+</project>

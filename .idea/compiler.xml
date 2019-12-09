@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="framework-rocket-mq-starter" />
+        <module name="framework-sdk" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="framework-rocket-mq-starter" target="1.8" />
+      <module name="framework-sdk" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="framework-rocket-mq-starter" options="-parameters" />
+      <module name="framework-sdk" options="-parameters" />
+    </option>
+  </component>
+</project>

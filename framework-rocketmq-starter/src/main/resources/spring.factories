@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.peng.framework.frameworkrocketmqstarter.config.RocketMqAutoConfiguration
