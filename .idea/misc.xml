@@ -8,6 +8,8 @@
       <list>
         <option value="$PROJECT_DIR$/framework-sdk/pom.xml" />
         <option value="$PROJECT_DIR$/framework-rocketmq-starter/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-sdk-util/pom.xml" />
+        <option value="$PROJECT_DIR$/com-peng-web-user/pom.xml" />
       </list>
     </option>
   </component>
